@@ -26,8 +26,12 @@ options:
   -o OUTPUT, --output OUTPUT
                         Example: output file
 
-Example:
+**Example:**
+
 python categorize_bookmarks.py -c config.json -b firefox_bookmarks.json -o organized_bookmarks.md 
+
+**SAMPLE OUTPUT:
+**
 
 ##### Technology 
 - [Python 3.13.0 Documentation](https://docs.python.org/3/)
