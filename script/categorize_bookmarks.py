@@ -132,7 +132,7 @@ def main():
     # Print contents of config.json file
     print(organized_bookmark_contents)
 
-    print("Bookmarks have been organized and saved to 'organized_bookmarks.md'.")
+    print(f"Bookmarks have been organized and saved to '{output_file}'.")
 
 if __name__ == "__main__":
     main()
