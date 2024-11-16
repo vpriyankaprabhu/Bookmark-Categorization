@@ -1,0 +1,36 @@
+
+{
+    "categories": {
+        "Technology": [
+            "Python",
+            "Programming",
+            "Kubernetes",
+            "K8S",
+            "AI",
+            "Software",
+            "Containerization"
+        ],
+        "Science": [
+            "Physics",
+            "Biology",
+            "Chemistry",
+            "Space"
+        ],
+        "Travel & Lifestyle": [
+            "Travel",
+            "Flights",
+            "Health",
+            "Fitness"
+        ],
+        "Entertainment": [
+            "News",
+            "Music",
+            "Movies",
+            "Podcasts"
+        ],
+        "Finance": [
+            "Investment",
+            "Mutual Funds"
+        ]
+    }
+}
