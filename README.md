@@ -6,10 +6,12 @@ You may use the Bookmark_Catergorization.ipynb file to get the understanding how
 I have developed the script file too (script/categorize_bookmarks.py), for execution:
 
 **SCRIPT USAGE:**
+
 usage: categorize_bookmarks.py [-h] -c CONFIG_FILE -b BOOKMARKS_FILE [-o OUTPUT]
 categorize_bookmarks.py: error: the following arguments are required: -c/--config_file, -b/--bookmarks_file
 
 **NOTE:**
+
 python categorize_bookmarks.py -h
 usage: categorize_bookmarks.py [-h] -c CONFIG_FILE -b BOOKMARKS_FILE [-o OUTPUT]
 
