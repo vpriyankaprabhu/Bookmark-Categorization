@@ -30,8 +30,7 @@ options:
 
 python categorize_bookmarks.py -c config.json -b firefox_bookmarks.json -o organized_bookmarks.md 
 
-**SAMPLE OUTPUT:
-**
+**SAMPLE OUTPUT:**
 
 ##### Technology 
 - [Python 3.13.0 Documentation](https://docs.python.org/3/)
@@ -55,7 +54,5 @@ python categorize_bookmarks.py -c config.json -b firefox_bookmarks.json -o organ
 ##### Finance 
 - [Zerodha: Online brokerage platform for stock trading & investing](https://zerodha.com/)
 - [Kuvera - Invest in Mutual Funds, Fixed Deposits , Stocks and more](https://kuvera.in/)
-
-Bookmarks have been organized and saved to 'organized_bookmarks.md'.
 
 If any queries/issues, please send me an email (vpriyankaprabhu@gmail.com)
